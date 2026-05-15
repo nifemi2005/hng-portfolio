@@ -2,8 +2,8 @@
 
 A high-performance, interactive developer portfolio built with SvelteKit and Tailwind CSS.
 
-**Live →** [https://your-portfolio.vercel.app](https://portfolio-v301.netlify.app/)  
-**Repo →** [https://github.com/your-username/portfolio](https://github.com/nifemi2005/hng-portfolio)
+**Live →** [https://portfolio-v301.netlify.app/](https://portfolio-v301.netlify.app/)  
+**Repo →** [https://github.com/nifemi2005/hng-portfolio](https://github.com/nifemi2005/hng-portfolio)
 
 ---
 
@@ -21,8 +21,8 @@ A high-performance, interactive developer portfolio built with SvelteKit and Tai
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
+git clone https://github.com/nifemi2005/hng-portfolio.git
+cd hng-portfolio
 npm install
 npm run dev
 ```
