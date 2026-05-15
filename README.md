@@ -2,8 +2,8 @@
 
 A high-performance, interactive developer portfolio built with SvelteKit and Tailwind CSS.
 
-**Live →** https://your-portfolio.vercel.app  
-**Repo →** https://github.com/your-username/portfolio
+**Live →** [https://your-portfolio.vercel.app](https://portfolio-v301.netlify.app/)  
+**Repo →** [https://github.com/your-username/portfolio](https://github.com/nifemi2005/hng-portfolio)
 
 ---
 
