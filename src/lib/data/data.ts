@@ -5,7 +5,7 @@ export const profile = {
     initials: 'TO',
     socials: {
       github: 'https://github.com/nifemi2005',
-      linkedin: 'https://linkedin.com/in/your-username',
+      linkedin: 'https://linkedin.com/in/oluwanifemi-temenu',
       email: 'mailto:temenuoluwanifemi2005@email.com',
     },
     resume: '/resume.pdf',
