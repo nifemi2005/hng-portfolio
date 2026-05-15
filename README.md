@@ -14,7 +14,7 @@ A high-performance, interactive developer portfolio built with SvelteKit and Tai
 - **Lucide Svelte** for icons
 - **@fontsource-variable** for self-hosted variable fonts (Inter + JetBrains Mono)
 - **Formspree** for contact form submissions
-- **Vercel** for deployment via `@sveltejs/adapter-auto`
+- **Netlify** for deployment via `@sveltejs/adapter-auto`
 
 ---
 
